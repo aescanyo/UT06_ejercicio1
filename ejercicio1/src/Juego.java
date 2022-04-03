@@ -81,8 +81,7 @@ public class Juego {
      * Llama al método MuestraVidasRestantes de la nueva instancia y luego al de la instancia anterior.
      */
     
-    player1.MuestraVidasRestantes();
-    
+      
     System.out.println("Jugador1 "+player1.MuestraVidasRestantes());
     System.out.println("Jugador2 "+player2.MuestraVidasRestantes());
     
